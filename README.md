@@ -16,7 +16,3 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-<h2 align="center">🐙 Github Statistics </h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=piusidev&layout=compact&hide=html&theme=dracula"/>
-</p>
