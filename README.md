@@ -2,7 +2,7 @@
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
   <samp>
-  Front-End developer and UX enthusiast. Currently studing and focusing on ReactJS. I'm searching for aprimore my skills in front end and help other dev's  with what i can. My goal is to develop the best and most intuitive interfaces i can, and become a fullstack developer.
+  Front-End developer and UX enthusiast. Currently studying and focusing on ReactJS. I'm searching for aprimore my skills in front end and help other dev's  with what i can. My goal is to develop the best and most intuitive interfaces i can, and become a fullstack developer.
   </samp>
  </p>
 <h2 align="center"> 🛠 Techs I work </h2>
