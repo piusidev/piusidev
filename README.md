@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Piusi</h1>
-<h2 align="center"> 👨‍💻 Who am I?</h2>
+<h2 align="center"> 👨‍💻 Who I am?</h2>
 <p align="center">
   <samp>
   Front-End developer and UX enthusiast. Currently studying and focusing on ReactJS. I'm searching for improve my skills in front end and help other's dev's  with what i can. My goal is to develop the best and most intuitive interfaces i can, and become a fullstack developer.
