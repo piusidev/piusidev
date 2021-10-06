@@ -18,5 +18,5 @@
 </p>
 
 <p align="center">
-    <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=piusidev&theme=dracula"/>
+    <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=piusidev&theme=xcode"/>
 </p>
