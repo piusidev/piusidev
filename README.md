@@ -12,6 +12,8 @@ Currently, I'm focused in learning about the following topics:
 
 In open-source, i'm working at a front-end for bonfire application, u can read more about this here: [Cosmic-Group/bonfire-client](https://github.com/Cosmic-Group/bonfire-client)
 
+Wanna talk about development? Feel free and text me at LinkedIn!
+
 <hr>
 
 ### Some techs and tools i work:
