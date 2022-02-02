@@ -2,6 +2,8 @@
 
 Working at [Linx Impulse](https://github.com/chaordic/) as a Front-end Developer, on e-commerce tools.
 
+Aside, i'm a UX/UI enthusiast & lover of simple, clean and intuitive interfaces.
+
 Currently, I'm focused in learning about the following topics:
 
 - CI/CD with Github Actions
